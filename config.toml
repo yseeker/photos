@@ -1,8 +1,11 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "http://www.yusaito.com/photos/"
 languageCode = "en-us"
 title = "Photo Grid - Grid Gallery For Hugo"
 theme = "photo-grid"
+publishDir = "docs"
+canonifyurls = true
+
 
 # Enter your tracking code to enable Google Analytics
 # googleAnalytics = "UA-XXXXXXXX-Y"x
