@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://www.yusaito.com/photos/"
+baseurl = "https://www.yusaito.com/photos/"
 languageCode = "en-us"
 title = "Photo Grid - Grid Gallery For Hugo"
 theme = "photo-grid"
